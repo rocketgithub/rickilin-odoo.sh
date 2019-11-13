@@ -1,0 +1,1 @@
+# rickilin-odoo.sh
