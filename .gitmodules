@@ -6,3 +6,7 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 11.0
+[submodule "importaciones"]
+	path = importaciones
+	url = git@github.com:rocketgithub/importaciones.git
+	branch = 12.0
