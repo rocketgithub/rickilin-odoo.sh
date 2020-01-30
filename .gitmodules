@@ -10,3 +10,7 @@
 	path = importaciones
 	url = git@github.com:rocketgithub/importaciones.git
 	branch = 12.0
+[submodule "bolson"]
+	path = bolson
+	url = https://github.com/rocketgithub/bolson.git
+	branch = 11.0
